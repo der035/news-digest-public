@@ -1,0 +1,218 @@
+{
+  "version": 1,
+  "published_at": "2026-11-19T03:44:13.862414+00:00",
+  "edition_date": "2026-11-19",
+  "stories": [
+    {
+      "category": "politics",
+      "title": "马斯克称对中期选举巨额投入“相当愚蠢”，否认自己是MAGA",
+      "sections": {
+        "event": {
+          "text": "马斯克表示对自己在中期选举中的创纪录支出感到“相当愚蠢”，并称自己“不是MAGA”。",
+          "sources": [
+            {
+              "publisher": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-11-19T02:59:06+00:00",
+              "title": "Elon Musk says record spending on US midterms was 'pretty foolish'"
+            },
+            {
+              "publisher": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump",
+              "published_at": "2026-11-19T01:07:51+00:00",
+              "title": "Elon Musk claims ‘I’m not Maga’ and says he regrets vast sums to back Republicans"
+            },
+            {
+              "publisher": "Variety",
+              "url": "https://variety.com/2026/digital/news/elon-musk-pretty-foolish-midterm-election-races-not-maga-1236952400/",
+              "published_at": "2026-11-18T23:30:57+00:00",
+              "title": "Elon Musk Admits He Feels ‘Pretty Foolish’ Having Spent Nearly $500 Million on Midterm Election Races Won by Democrats, Claims He Is ‘Not MAGA’"
+            }
+          ]
+        },
+        "background": {
+          "text": "马斯克是此次选举最大的个人捐款者，向支持特朗普所在政党的方向投入约4.46亿美元；共和党在选举中遭遇大败。",
+          "sources": [
+            {
+              "publisher": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-11-19T02:59:06+00:00",
+              "title": "Elon Musk says record spending on US midterms was 'pretty foolish'"
+            },
+            {
+              "publisher": "Variety",
+              "url": "https://variety.com/2026/digital/news/elon-musk-pretty-foolish-midterm-election-races-not-maga-1236952400/",
+              "published_at": "2026-11-18T23:30:57+00:00",
+              "title": "Elon Musk Admits He Feels ‘Pretty Foolish’ Having Spent Nearly $500 Million on Midterm Election Races Won by Democrats, Claims He Is ‘Not MAGA’"
+            }
+          ]
+        }
+      },
+      "published_at": "2026-11-19T02:59:06+00:00",
+      "id": "70420f46-3746-52d1-9da3-89dd7584acb9"
+    },
+    {
+      "category": "entertainment",
+      "title": "泰勒·斯威夫特时隔13年重返CMA颁奖礼，串烧《Our Song》与新单曲",
+      "sections": {
+        "event": {
+          "text": "泰勒·斯威夫特在第60届CMA颁奖礼上表演《I Knew It, I Knew You》与《Our Song》串烧，这是她13年来首次在该颁奖礼演出。",
+          "sources": [
+            {
+              "publisher": "TheWrap",
+              "url": "https://www.thewrap.com/creative-content/music/taylor-swift-cma-awards-performance-i-knew-it-i-knew-you-our-song/",
+              "published_at": "2026-11-19T03:05:41+00:00",
+              "title": "Taylor Swift Performs Mash-Up of ‘Toy Story 5’ Anthem and ‘Our Song’ at 2026 CMA Awards"
+            },
+            {
+              "publisher": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/music/music-news/taylor-swift-2026-cma-awards-performance-our-song-1236758939/",
+              "published_at": "2026-11-19T02:35:33+00:00",
+              "title": "Taylor Swift Performs “Our Song” and “I Knew It, I Knew You” at the CMAs"
+            },
+            {
+              "publisher": "Variety",
+              "url": "https://variety.com/2026/music/news/taylor-swift-performs-i-knew-it-i-knew-you-our-song-cmas-1236952619/",
+              "published_at": "2026-11-19T02:29:00+00:00",
+              "title": "Taylor Swift Performs ‘I Knew It, I Knew You’ and ‘Our Song’ Mashup at CMA Awards"
+            }
+          ]
+        },
+        "background": {
+          "text": "《I Knew It, I Knew You》是《玩具总动员5》原声歌曲，获年度单曲提名。",
+          "sources": [
+            {
+              "publisher": "TheWrap",
+              "url": "https://www.thewrap.com/creative-content/music/taylor-swift-cma-awards-performance-i-knew-it-i-knew-you-our-song/",
+              "published_at": "2026-11-19T03:05:41+00:00",
+              "title": "Taylor Swift Performs Mash-Up of ‘Toy Story 5’ Anthem and ‘Our Song’ at 2026 CMA Awards"
+            },
+            {
+              "publisher": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/music/music-news/taylor-swift-2026-cma-awards-performance-our-song-1236758939/",
+              "published_at": "2026-11-19T02:35:33+00:00",
+              "title": "Taylor Swift Performs “Our Song” and “I Knew It, I Knew You” at the CMAs"
+            }
+          ]
+        }
+      },
+      "published_at": "2026-11-19T03:05:41+00:00",
+      "id": "5bb868e1-c208-542b-a6c8-8672194d11e4"
+    },
+    {
+      "category": "entertainment",
+      "title": "克里斯·帕拉特将主演派拉蒙科幻片《The Traveler》并签三年优先合作协议",
+      "sections": {
+        "event": {
+          "text": "克里斯·帕拉特将主演派拉蒙改编自约瑟夫·埃克特小说的科幻片《The Traveler》，并通过其公司签署三年优先制作协议。",
+          "sources": [
+            {
+              "publisher": "TheWrap",
+              "url": "https://www.thewrap.com/creative-content/movies/chris-pratt-to-star-the-traveler-adaptation-paramount/",
+              "published_at": "2026-11-19T00:54:39+00:00",
+              "title": "Chris Pratt to Star in 'The Traveler' Adaptation at Paramount"
+            },
+            {
+              "publisher": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/chris-pratt-to-star-in-sci-fi-movie-the-traveler-1236758984/",
+              "published_at": "2026-11-19T00:26:05+00:00",
+              "title": "Chris Pratt to Star in Sci-Fi Movie ‘The Traveler’ as He Inks Paramount First-Look"
+            },
+            {
+              "publisher": "Variety",
+              "url": "https://variety.com/2026/film/news/chris-pratt-the-traveler-paramount-deal-1236952517/",
+              "published_at": "2026-11-19T00:16:50+00:00",
+              "title": "Chris Pratt to Star in Sci-Fi Family Drama ‘The Traveler,’ Inks First-Look Producing Deal at Paramount (EXCLUSIVE)"
+            }
+          ]
+        },
+        "background": {
+          "text": "影片讲述一名不情愿的时间旅行者与其子之间的故事。",
+          "sources": [
+            {
+              "publisher": "Variety",
+              "url": "https://variety.com/2026/film/news/chris-pratt-the-traveler-paramount-deal-1236952517/",
+              "published_at": "2026-11-19T00:16:50+00:00",
+              "title": "Chris Pratt to Star in Sci-Fi Family Drama ‘The Traveler,’ Inks First-Look Producing Deal at Paramount (EXCLUSIVE)"
+            }
+          ]
+        }
+      },
+      "published_at": "2026-11-19T00:54:39+00:00",
+      "id": "5f2f1505-3650-581d-ae9a-9e1bb0b04d4f"
+    },
+    {
+      "category": "technology",
+      "title": "Instagram新增发布后编辑快拍功能，限15分钟",
+      "sections": {
+        "event": {
+          "text": "Instagram推出发布后编辑快拍功能，用户可在发布后15分钟内修改文字、音乐或配文，无需删除重发。",
+          "sources": [
+            {
+              "publisher": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/18/instagram-finally-lets-users-edit-stories-after-publishing-but-theres-a-catch/",
+              "published_at": "2026-11-18T20:48:35+00:00",
+              "title": "Instagram finally lets users edit Stories after publishing, but there’s a catch - 9to5Mac"
+            },
+            {
+              "publisher": "Engadget",
+              "url": "https://www.engadget.com/2320953/you-can-finally-edit-an-instagram-story-without-deleting-it/",
+              "published_at": "2026-11-18T19:14:19+00:00",
+              "title": "You can finally edit an Instagram Story without deleting it - Engadget"
+            },
+            {
+              "publisher": "The Verge",
+              "url": "https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them",
+              "published_at": "2026-11-18T19:29:10+00:00",
+              "title": "Instagram now lets you edit your stories after you post them"
+            }
+          ]
+        }
+      },
+      "published_at": "2026-11-18T20:48:35+00:00",
+      "id": "d9dc0dc5-4b8d-5832-923e-09b42a29d297"
+    },
+    {
+      "category": "technology",
+      "title": "苹果公布2026年App Store Awards入围名单，45款应用与游戏入选",
+      "sections": {
+        "event": {
+          "text": "苹果公布2026年App Store Awards入围名单，由全球编辑选出45款应用和游戏，涵盖12个类别。",
+          "sources": [
+            {
+              "publisher": "少数派",
+              "url": "https://sspai.com/post/119239",
+              "published_at": "2026-11-19T00:29:30+00:00",
+              "title": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等 - 少数派"
+            },
+            {
+              "publisher": "Apple Newsroom",
+              "url": "https://www.apple.com/newsroom/2026/11/meet-the-2026-app-store-award-finalists/",
+              "published_at": "2026-11-18T13:59:20.769000+00:00",
+              "title": "Meet the 2026 App Store Award finalists"
+            }
+          ]
+        },
+        "background": {
+          "text": "入围涵盖iPhone、iPad、Mac、Vision Pro、Apple Watch、Apple TV、Apple Arcade及文化影响类别，最终获奖名单将在未来几周公布。",
+          "sources": [
+            {
+              "publisher": "少数派",
+              "url": "https://sspai.com/post/119239",
+              "published_at": "2026-11-19T00:29:30+00:00",
+              "title": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等 - 少数派"
+            },
+            {
+              "publisher": "Apple Newsroom",
+              "url": "https://www.apple.com/newsroom/2026/11/meet-the-2026-app-store-award-finalists/",
+              "published_at": "2026-11-18T13:59:20.769000+00:00",
+              "title": "Meet the 2026 App Store Award finalists"
+            }
+          ]
+        }
+      },
+      "published_at": "2026-11-19T00:29:30+00:00",
+      "id": "38ed88f6-37a6-5167-b786-7e68bf5ea6e9"
+    }
+  ]
+}
